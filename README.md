@@ -19,7 +19,14 @@ sudo bash -c 'echo "exec /etc/X11/Xsession /usr/bin/xfce4-session" > /etc/chrome
 sudo systemctl disable lightdm.service
 
 
-+ chrome remote
+**Chrome Remote Code**:
+
+https://remotedesktop.google.com/headless
+
+
+**Firefox**:
+
+sudo apt install firefox
 
 **Google Chrome**:
 
