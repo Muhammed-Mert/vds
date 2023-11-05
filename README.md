@@ -5,6 +5,7 @@ sudo apt update
 **Chrome Remote Desktop**:
 
 wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
+
 sudo apt install ./chrome-remote-desktop_current_amd64.deb
 
 **XFCE Desktop Environment**:
@@ -31,4 +32,5 @@ sudo apt install firefox
 **Google Chrome**:
 
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+
 sudo apt install ./google-chrome-stable_current_amd64.deb
