@@ -11,7 +11,7 @@ sudo apt update
 
 **XFCE Desktop Environment**:
 
-- sudo DEBIAN_FRONTEND=noninteractive \
+- sudo DEBIAN_FRONTEND=noninteractive \ 
      apt install --assume-yes xfce4 desktop-base dbus-x11 xscreensaver
 
 
